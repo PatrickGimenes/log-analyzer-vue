@@ -1,0 +1,9 @@
+[20/04/2025 14:32:10.123] getFornecedor entrei
+[20/04/2025 14:32:11.124] SELECT * FROM fornecedores WHERE id = '45463'
+[20/04/2025 14:32:11.127] getFornecedor sai
+[20/04/2025 14:32:11.130] getCliente entrei
+[20/04/2025 14:32:12.132] SELECT * FROM clientes WHERE email = 'joao@example.com'
+[20/04/2025 14:32:11.835] getCliente sai
+[20/04/2025 14:32:13.140] getPedido entrei
+[20/04/2025 14:32:13.142] SELECT * FROM pedidos WHERE cliente_id = '123'
+[20/04/2025 14:32:13.153] getPedido sai
